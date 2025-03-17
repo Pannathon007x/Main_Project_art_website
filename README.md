@@ -13,6 +13,21 @@ pnpm dev
 # or
 bun dev
 ```
+####################################################################################################
+*No git inti*
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Pannathon007x/Main_Project_art_website.git
+git push -u origin main
+####################################################################################################
+*Have git inti
+git add .
+git commit -m "first commit"
+git push -u origin main
+####################################################################################################
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
